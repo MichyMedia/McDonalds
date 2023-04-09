@@ -6,6 +6,9 @@ Blackout Developments Discord
 Michy_TV Twitch
 https://www.twitch.tv/michy_tv
 
+Fourm Post
+https://forum.cfx.re/t/mcdonalds-food-items-for-qbcore/5070717
+
 # McDonalds
 McDonalds add-on for those wanting to add food and items to QBCore
 
