@@ -3,16 +3,16 @@ Config.Locations = {
     ["mcdonalds"] = {
         ["label"] = "McDonalds",
         ["coords"] = vector4(90.56, 285.77, 110.22, 69.58),
-        ["ped"] = 'a_m_y_beach_01',
-        ["scenario"] = "WORLD_HUMAN_STAND_MOBILE_CLUBHOUSE",
+        ["ped"] = 's_f_y_factory_01',
+        ["scenario"] = "WORLD_LOOKAT_POINT",
         ["radius"] = 1.5,
-        ["targetIcon"] = "fas fa-leaf",
+        ["targetIcon"] = "fas fa-shopping-basket",
         ["targetLabel"] = "Order McDonalds",
         ["products"] = Config.Products["mcdonalds"],
         ["showblip"] = true,
-        ["blipsprite"] = 52,
+        ["blipsprite"] = 78,
         ["blipscale"] = 0.8,
-        ["blipcolor"] = 0,
+        ["blipcolor"] = 46,
         ["delivery"] = vector4(90.56, 285.77, 110.22, 69.58)
     },
 }
