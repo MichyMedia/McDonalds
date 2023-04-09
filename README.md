@@ -7,6 +7,8 @@ Michy_TV Twitch
 https://www.twitch.tv/michy_tv
 
 Fourm Post
+If you like this please be sure to head to the main post and comment your thoughts :)
+
 https://forum.cfx.re/t/mcdonalds-food-items-for-qbcore/5070717
 
 # McDonalds
